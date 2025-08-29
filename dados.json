@@ -1,0 +1,39 @@
+[
+  {
+    "produto": {
+      "prod123": "Notebook Dell",
+      "prod124": "Tablet Samsung",
+      "prod125": "Smartphone Iphone"
+    }
+  },
+  {
+    "vendedor": {
+      "vend456": "Bras",
+      "vend457": "Cubas",
+      "vend458": "Shibata da Silva"
+    }
+  },
+  {
+    "preco": {
+      "preco789": "2550.00",
+      "preco790": "3199.00",
+      "preco791": "1999.00"
+    }
+  },
+  {
+    "imagemProduto": {
+      
+      "image001": "<img src='img/Notebook.jpg' width='300px'>",
+      "image002": "<img src='img/Tablet.jpg' width='300px'>",
+      "image003": "<img src='img/Iphone.jpg' width='300px'>"
+    }
+  },
+  {
+    "clientes":{
+      "cli001": "José",
+      "cli002": "Mario",
+      "cli003": "João"
+    }
+  }
+]
+
